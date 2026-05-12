@@ -42,15 +42,16 @@ ajout, modification et suppression,
 navigation entre écrans,
 validation des saisies,
 rafraîchissement automatique des données.
-3) Quels sont les résultats ?
-Centralisation de la gestion des clients et agents dans une seule application.
-Réduction des manipulations manuelles et des erreurs.
-Amélioration de la rapidité d’accès aux informations clients.
-Interface simple et intuitive pour les utilisateurs métiers.
-Automatisation des opérations de gestion et de mise à jour des données.
 
-Mini Projet 2 — Application de gestion des clients (Model-Driven Apps)<br>
-# 1) Contexte
+# 3) Résultats
+- Centralisation de la gestion des clients et agents dans une seule application.
+- Réduction des manipulations manuelles et des erreurs.
+- Amélioration de la rapidité d’accès aux informations clients.
+- Interface simple et intuitive pour les utilisateurs métiers.
+- Automatisation des opérations de gestion et de mise à jour des données.
+
+# Mini Projet 2 — Application de gestion des clients (Model-Driven Apps)<br>
+## 1) Contexte
 Les équipes avaient besoin d’une solution plus structurée pour gérer les clients et les agents avec :
 
 - une base de données centralisée,
@@ -60,7 +61,7 @@ Les équipes avaient besoin d’une solution plus structurée pour gérer les cl
 
 Le suivi des clients et des agents était difficile sans modèle de données unifié.
 
-# 2) Quelle approche technique
+## 2) Quelle approche technique
 
 L'application Power Apps Model-Driven basée sur Dataverse afin de structurer les données et automatiser la gestion des clients.
 
@@ -72,13 +73,13 @@ L’application inclut :
 - des vues et pages de navigation,
 - des pages Canvas intégrées pour enrichir l’expérience utilisateur.
 
-### Technologies utilisées :
+#### Technologies utilisées :
 
 - Power Apps Model-Driven
 - Dataverse
 - Apps Canvas (pages personnalisées)
 
-### Fonctionnalités mises en place :
+#### Fonctionnalités mises en place :
 
 - ajout, modification et suppression des clients,
 - gestion des agents associés,
@@ -87,7 +88,7 @@ L’application inclut :
 - formulaires métiers personnalisés,
 - gestion des clients VIP.
   
-# 3) Résultats ?
+## 3) Résultats ?
 - Mise en place d’une application métier centralisée et structurée.
 - Amélioration de l’organisation des données grâce à Dataverse.
 - Simplification du suivi des clients et agents.
