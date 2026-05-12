@@ -34,14 +34,13 @@ L’application comprend :
 - OneDrive
 - Power Fx
 
-Fonctionnalités mises en place :
-
-recherche dynamique,
-filtrage VIP / non VIP,
-ajout, modification et suppression,
-navigation entre écrans,
-validation des saisies,
-rafraîchissement automatique des données.
+### Fonctionnalités mises en place :
+- recherche dynamique,
+- filtrage VIP / non VIP,
+- ajout, modification et suppression,
+- navigation entre écrans,
+- validation des saisies,
+- rafraîchissement automatique des données.
 
 ## 3) Résultats
 - Centralisation de la gestion des clients et agents dans une seule application.
