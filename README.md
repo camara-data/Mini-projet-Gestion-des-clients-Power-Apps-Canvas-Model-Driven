@@ -1,5 +1,5 @@
-Mini Projet1-Application de gestion des clients (Power Apps Canvas)
-# 1) Contexte
+# Mini Projet1-Application de gestion des clients (Power Apps Canvas)
+## 1) Contexte
 
 La gestion des clients et des agents était dispersée entre plusieurs outils comme SharePoint et OneDrive, ce qui rendait les opérations lentes et manuelles.
 Les utilisateurs devaient utiliser plusieurs fichiers et applications pour:
@@ -15,7 +15,7 @@ Cela entraînait :
 - un manque de centralisation des données,
 - une difficulté de suivi des informations clients.
   
-# 2) Quelle approche technique ?
+## 2) Approche technique
 
 L'application Power Apps Canvas connectée à SharePoint et OneDrive afin de centraliser la gestion des clients et des agents dans une seule interface.
 
@@ -43,14 +43,14 @@ navigation entre écrans,
 validation des saisies,
 rafraîchissement automatique des données.
 
-# 3) Résultats
+## 3) Résultats
 - Centralisation de la gestion des clients et agents dans une seule application.
 - Réduction des manipulations manuelles et des erreurs.
 - Amélioration de la rapidité d’accès aux informations clients.
 - Interface simple et intuitive pour les utilisateurs métiers.
 - Automatisation des opérations de gestion et de mise à jour des données.
 
-# Mini Projet 2 — Application de gestion des clients (Model-Driven Apps)<br>
+# Mini Projet 2-Application de gestion des clients (Model-Driven Apps)
 ## 1) Contexte
 Les équipes avaient besoin d’une solution plus structurée pour gérer les clients et les agents avec :
 
