@@ -8,7 +8,7 @@ Les utilisateurs devaient utiliser plusieurs fichiers et applications pour:
 - ajouter ou modifier des informations,
 - gérer les agents.
 
-Cela entraînait :
+Cela entraînait:
 
 - des pertes de temps,
 - des risques d’erreurs,
@@ -19,7 +19,7 @@ Cela entraînait :
 
 L'application Power Apps Canvas connectée à SharePoint et OneDrive afin de centraliser la gestion des clients et des agents dans une seule interface.
 
-L’application comprend :
+L’application comprend:
 
 - une page d’accueil avec navigation,
 - une liste des clients avec recherche et filtres,
@@ -27,14 +27,14 @@ L’application comprend :
 - une gestion des agents,
 - des validations.
 
-### Technologies utilisées :
+### Technologies utilisées:
 
 - Power Apps Canvas
 - SharePoint
 - OneDrive
 - Power Fx
 
-### Fonctionnalités mises en place :
+### Fonctionnalités mises en place:
 - recherche dynamique,
 - filtrage VIP / non VIP,
 - ajout, modification et suppression,
@@ -51,7 +51,7 @@ L’application comprend :
 
 # Mini Projet 2-Application de gestion des clients (Model-Driven Apps)
 ## 1) Contexte
-Les équipes avaient besoin d’une solution plus structurée pour gérer les clients et les agents avec :
+Les équipes avaient besoin d’une solution plus structurée pour gérer les clients et les agents avec:
 
 - une base de données centralisée,
 - des relations entre les entités,
@@ -64,7 +64,7 @@ Le suivi des clients et des agents était difficile sans modèle de données uni
 
 L'application Power Apps Model-Driven basée sur Dataverse afin de structurer les données et automatiser la gestion des clients.
 
-L’application inclut :
+L’application inclut:
 
 - des tables Clients et Agents,
 - une relation 1-N entre agents et clients,
@@ -72,13 +72,13 @@ L’application inclut :
 - des vues et pages de navigation,
 - des pages Canvas intégrées pour enrichir l’expérience utilisateur.
 
-#### Technologies utilisées :
+#### Technologies utilisées:
 
 - Power Apps Model-Driven
 - Dataverse
 - Apps Canvas (pages personnalisées)
 
-#### Fonctionnalités mises en place :
+#### Fonctionnalités mises en place:
 
 - ajout, modification et suppression des clients,
 - gestion des agents associés,
@@ -87,7 +87,7 @@ L’application inclut :
 - formulaires métiers personnalisés,
 - gestion des clients VIP.
   
-## 3) Résultats ?
+## 3) Résultats
 - Mise en place d’une application métier centralisée et structurée.
 - Amélioration de l’organisation des données grâce à Dataverse.
 - Simplification du suivi des clients et agents.
